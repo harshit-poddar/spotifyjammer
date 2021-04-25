@@ -1,5 +1,5 @@
-const clientId = '9abb6fffb9ce4b60a5ef7a08898d513d';
-const redirectUri = 'http://localhost:3000';
+const clientId = 'da61dca5aacd4608b1f6930cf328485d';
+const redirectUri = 'https://loving-roentgen-3c930f.netlify.app';
 
 let accessToken;
 
